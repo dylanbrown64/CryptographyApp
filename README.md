@@ -1,8 +1,8 @@
 # Cryptography Web App
 ## Dylan Brown
 
-The app is set up to run the front end on localhost port 3000.
-The backend is set to run on localhost port 8000 using a uvicorn server to run FastAPI
+The app is set up to run locally. The front end should be on localhost port 3000.
+The backend is set to run on localhost port 8000 using a uvicorn server to run FastAPI.
 
 The src file contains all front end work written by me.
 
